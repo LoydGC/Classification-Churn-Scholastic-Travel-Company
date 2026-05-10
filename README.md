@@ -7,8 +7,3 @@ Predicts whether Scholastic Travel Company B2B clients will renew their educatio
 
 SVM was selected as the final model for its best overall performance and strongest generalization to unseen data.
 
-Key Predictors:
-
-Features most associated with retention: SingleGradeTripFlag, FRPActive, TotalPax, large school size.
-
-Features most associated with churn: IsNonAnnual, SPRNewExisting_NEW, small school size, June departure.
