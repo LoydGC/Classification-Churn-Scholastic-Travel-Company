@@ -1,6 +1,5 @@
 STC Customer Churn Classification
-Course: Machine Learning Foundations with Python — Group 23
-Team: Gavin Loyd, Cierra Oliveira, Avery Trinidad
+Course: Machine Learning Foundations with Python
 
 Predicts whether Scholastic Travel Company B2B clients will renew their educational trip contracts for the following school year using KNN, XGBoost, and SVM classifiers.
 
